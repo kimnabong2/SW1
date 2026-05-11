@@ -1,0 +1,17 @@
+[rossenzii] Mon May 11 22:33:11 2026 +0900 fix: pdf로 변경 64683cb
+[rossenzii] Mon May 11 22:29:12 2026 +0900 Merge branch 'main' of https://github.com/kimnabong2/SW1 f4eea8a
+[rossenzii] Mon May 11 22:28:30 2026 +0900 feat: 1,2,3 usecase description d7d3d31
+[vegetablejune] Mon May 11 22:19:19 2026 +0900 UI070809 8399b41
+[Kim_Nayeon] Mon May 11 21:57:27 2026 +0900 usecase description10&11 ec3a17c
+[maluswe] Mon May 11 18:59:40 2026 +0900 Add files via upload 25049d4
+[vegetablejune] Mon May 11 16:52:02 2026 +0900 Usecase descriptions 07,08,09 b11e42b
+[vegetablejune] Mon May 11 16:30:26 2026 +0900 add files 07, 08, 09 676b031
+[maluswe] Mon May 11 14:05:09 2026 +0900 Add files via upload 2012301
+[minji jang] Sun May 10 12:56:03 2026 +0900 Delete .DS_Store 1c4a564
+[rossenzii] Sun May 10 12:55:21 2026 +0900 Merge branch 'main' of https://github.com/kimnabong2/SW1 48e3f17
+[rossenzii] Sun May 10 12:52:36 2026 +0900 feat: 회원탈퇴UI 2bab0f1
+[rossenzii] Sun May 10 12:52:07 2026 +0900 feat: 로그인, 로그아웃 UI d961ca9
+[rossenzii] Sun May 10 12:51:48 2026 +0900 feat: 회원가입 UI 5792753
+[Kim_Nayeon] Fri May 8 17:31:53 2026 +0900 11.설문통계UI 79a0087
+[Kim_Nayeon] Fri May 8 17:30:36 2026 +0900 10.응답한설문조회UI 067833b
+[Kim_Nayeon] Thu May 7 13:02:35 2026 +0900 Usecase 다이어그램 2dd0edb
